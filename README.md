@@ -5,11 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-0111&label=Profile%20views&color=0eb474&style=flat" alt="nitin-0111" /> </p>
 
-- 🔭 We’re currently working on [CampusConnect](https://github.com/nitin-0111/Mnit-CampusConnect)
 
-- 🌱 I’m currently learning **Cohort-2 (0-100)**
-
-- 👯 I’m looking to collaborate on [CampusConnect](https://github.com/nitin-0111/Mnit-CampusConnect)
+- 🌱 I’m currently learning **WEB DEV from Cohort-2 (0-100)**
 
 - 💬 Ask me about **MERN**
 
